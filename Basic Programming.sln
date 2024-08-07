@@ -5,7 +5,9 @@ VisualStudioVersion = 17.10.35122.118
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Basic", "Practice\Basic.csproj", "{0E96FA8A-FA29-4D19-850F-2A5750A62D1F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConditionalStatements", "ConditionalStatements\ConditionalStatements.csproj", "{040E4351-52B5-402E-B8EC-98CCE69A65B7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConditionalStatements", "ConditionalStatements\ConditionalStatements.csproj", "{040E4351-52B5-402E-B8EC-98CCE69A65B7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Loops", "Loops\Loops.csproj", "{F3968991-07EF-499D-9228-A89278EF7ECB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{040E4351-52B5-402E-B8EC-98CCE69A65B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{040E4351-52B5-402E-B8EC-98CCE69A65B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{040E4351-52B5-402E-B8EC-98CCE69A65B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F3968991-07EF-499D-9228-A89278EF7ECB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3968991-07EF-499D-9228-A89278EF7ECB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3968991-07EF-499D-9228-A89278EF7ECB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3968991-07EF-499D-9228-A89278EF7ECB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
