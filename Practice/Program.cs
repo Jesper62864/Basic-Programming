@@ -19,8 +19,8 @@
             //Console.WriteLine(CubeOf(2));
             //Console.WriteLine(CubeOf(-5.5));
 
-            SwapTwoNumbers(87, 45);
-            SwapTwoNumbers(-13, 2);
+            //SwapTwoNumbers(87, 45);
+            //SwapTwoNumbers(-13, 2);
         }
 
         static int AddAndMultiply(int a, int b, int c)

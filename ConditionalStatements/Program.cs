@@ -24,11 +24,13 @@
             //Console.WriteLine(IfSortedArray([3, 7, 10]));
             //Console.WriteLine(IfSortedArray([74,62,99]));
 
-            Console.WriteLine(PositiveNegativeOrZero(5.24));
-            Console.WriteLine(PositiveNegativeOrZero(0.0));
-            Console.WriteLine(PositiveNegativeOrZero(-994.53));
+            //Console.WriteLine(PositiveNegativeOrZero(5.24));
+            //Console.WriteLine(PositiveNegativeOrZero(0.0));
+            //Console.WriteLine(PositiveNegativeOrZero(-994.53));
 
 
+            Console.WriteLine(IfYearIsLeap(2016));
+            Console.WriteLine(IfYearIsLeap(2018));
         }
 
         static int AbsoluteValue(int val)
@@ -108,6 +110,19 @@
             {
                 return "zero";
             }
+        }
+        static bool IfYearIsLeap(int a)
+        {
+            if (a % 4 == 0)
+            {
+                return true;
+
+            }
+            else
+            {
+                return false;
+            }
+
         }
     }
 }
