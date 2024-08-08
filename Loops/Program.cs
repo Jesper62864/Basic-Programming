@@ -30,7 +30,7 @@ namespace Loops
             //FullSequenceOfLetters("or");
 
             //SumAndAverage(11, 66);
-            //SumAndAverage(-10, 0);
+            //SumAndAverage(-10, 00);
 
             //DrawTriangle();
 
